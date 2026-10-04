@@ -1,43 +1,91 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=90)
+# Choi Sung Ah | 최성아
 
-<div align="center">
-  <h2>👋 안녕하세요, 개발자 최성아입니다!</h2>
-  <p>꾸준히 성장하는 개발자가 되기 위해 학습하고 기록하고 있습니다.</p>
-</div>
+### Vision AI & Robotics Engineer
 
-<br/>
+Computer Vision과 Robotics를 연결하는 엔지니어를 목표로 하고 있습니다.
 
-<h3 align="center">📚 Languages and Tools</h3>
-<div align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-</div>
+ROS 2 기반 로봇 시스템에서 **Vision perception, 협동로봇 제어, simulation, system integration**을 경험했으며,  
+실제 Doosan 협동로봇과 NVIDIA Isaac Sim을 활용한 프로젝트를 진행했습니다.
 
-<br/>
+---
 
-<h3 align="center">📈 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunga4017&show_icons=true&theme=onedark" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunga4017&layout=compact&theme=onedark" height="150" alt="languages graph" />
-</div>
+## 🛠 Core Skills
+
+### Language
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Vision & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white)
+
+### Robotics & Simulation
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🐟 [AquaSweep](https://github.com/sunga4017/AquaSweep)
+**NVIDIA Isaac Sim 기반 철갑상어 양식장 멀티 로봇 청소 시뮬레이션**
+
+- Isaac Sim Top-view Camera 기반 Vision pipeline 개발
+- Synthetic dataset을 활용한 YOLO OBB 모델 재학습 및 perception pipeline 적용
+- Centroid matching + 누적 이동량 기반 `ActivityFishStatusClassifier` 구현
+- PhysX GPU Particle System 기반 수중 이물질 물리 시뮬레이션 초기 구조 구현 및 안정화
+- SAM2, DINOv2, YOLO-World + VLM 등 대안 Vision 접근 구현·검증
+
+**Tech**  
+`Python` `ROS 2` `NVIDIA Isaac Sim` `YOLO OBB` `OpenCV` `PyTorch`
+
+---
+
+### 🥜 [Vision-Nut-Picking-Cobot](https://github.com/sunga4017/Vision-Nut-Picking-Cobot)
+**Vision 기반 견과류 Pick-and-Place 및 사용자 맞춤 추천 협동로봇 시스템**
+
+- YOLO OBB 데이터 수집·라벨링 및 반복 학습·성능 비교 실험
+- ROS 2 + YOLO Object Detection용 Docker 실행환경 구축
+- GPT-4o 기반 견과류 종류·수량 추천 로직 구현
+- STT → LLM 분석 → 추천 → TTS/UI로 이어지는 사용자 상호작용 흐름 설계·개선
+
+**Tech**  
+`Python` `ROS 2` `YOLO OBB` `OpenCV` `Docker` `Doosan M0609` `GPT-4o`
+
+---
+
+### 🦖 [Chrome-Dino-Vision-Autoplayer](https://github.com/sunga4017/Chrome-Dino-Vision-Autoplayer)
+**CNN·OpenCV 기반 Chrome Dino 자동 플레이 Computer Vision 미니 프로젝트**
+
+- PyTorch 기반 2-layer CNN 장애물 분류 모델 직접 구현·학습
+- OpenCV thresholding 및 contour detection 기반 장애물 위치 검출
+- 게임 속도 증가에 대응하는 Dynamic Jump Threshold 구현
+- 실시간 화면 인식 → 판단 → 키 입력까지 end-to-end Vision pipeline 구현
+
+**Tech**  
+`Python` `PyTorch` `OpenCV` `CNN` `Computer Vision`
+
+---
+
+### 🥞 [Pancake-Cobot-System](https://github.com/sunga4017/Pancake-Cobot-System)
+**Doosan M0609 협동로봇 기반 팬케이크 조리 공정 자동화 시스템**
+
+- Firebase 실시간 상태와 연동되는 고객용 키오스크 UI 및 공정 시각화 구현
+- 로봇 시작·일시정지·재개 및 충돌 시뮬레이션/복구를 위한 웹 제어 인터페이스 구현
+- Firebase 요청을 ROS 2 로봇 작업 실행으로 연결하는 backend 초기 흐름 구현
+- 실제 로봇 없이도 UI와 제어 흐름을 검증할 수 있는 simulation mode 구현
+
+**Tech**  
+`Python` `ROS 2` `Firebase` `Doosan M0609` `Web UI`
+
+---
+
+## 📌 Portfolio
+
+### [Notion Portfolio → 최성아 | Vision AI & Robotics Engineer](https://capable-moss-bbd.notion.site/Vision-AI-Robotics-Engineer-3e046f508ab3805db279c0d4349b56bf)
+
+프로젝트별 상세 설계, 기술적 의사결정 및 구현 과정은 포트폴리오에서 확인할 수 있습니다.
